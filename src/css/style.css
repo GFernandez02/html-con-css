@@ -1,0 +1,38 @@
+body{
+    padding: 0%;
+    margin:0%
+
+}
+
+.navbar{
+
+display: flex;
+
+}
+
+.hero{
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+.heroimage{
+
+    max-height: 30vh;
+    width: 100vw;
+    object-fit: cover;
+
+
+}
+
+.herotitle{
+/*width: 100%; */
+color: white;
+background-color: rgba(0, 0, 0, .2);
+position:absolute;
+padding: 20px;
+border-radius: 8px;
+font-family: sans-serif;
+}
